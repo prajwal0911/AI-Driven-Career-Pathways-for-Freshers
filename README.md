@@ -50,7 +50,7 @@ This article emphasizes how **AI-driven career guidance systems** can:
 
 ### 🧾 Author  
 **Prajwal T K**  
-_Data Science & Analytics Enthusiast | Skilled in Python, SQL, Power BI & Machine Learning_  
+_Aspiring Data Analyst | Skilled in Python, SQL, Power BI & Machine Learning_  
 
 ---
 
